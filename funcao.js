@@ -3,8 +3,8 @@ function imprimirSoma(a,b){ // função sem retorno
 }
 
 imprimirSoma(2, 3)
-imprimirSoma(2)
-imprimirSoma(2, 10, 4, 5)
+
+imprimirSoma(2, 10)
 
 // funcao com  retorno
 function soma(a, b = 1){
